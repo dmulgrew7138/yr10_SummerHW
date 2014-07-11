@@ -21,18 +21,11 @@ There are 30 marks available and are awarded grades as follows:
 ##Data Representation
 
 ###1 - Why do we represent data using binary when using computers *(1 mark)*
-
-```
-answer here
-```
+Because computers read 1s and zeros or on and offs.
 ###2 - How would we represent the number 147 in binary? *(1 mark)*
-```
-answer here
-```
+10010011
 ###3 - Can you convert the hexadecimal number **b5** to denary, there is a mark for you working. *(2 marks)*
-```
-answer here
-```
+181
 ###4 - Here is a function written is **pseudocode**.
 ```
 FUNCTION validUser (users , user)
@@ -47,13 +40,10 @@ ENDFUNCTION
 
 (a) What type of data is **users**? **(1 mark)**
 ```
-answer here
-```
-
+integer
 (b) What type of data is returned by this function? **(1 mark)**
 ```
-answer here
-```
+integer
 
 ##Errors
 ###6 - This program is supposed to find the mean of a list of numbers and print it out for the user:
@@ -68,19 +58,13 @@ line7:		OUTPT mean
 ```
 
 (a) On which line is there a **syntax** error? **(1 mark)**
-```
-answer here
-```
+line7
 
 (b) What is meant by a **syntax** error? **(1 mark)**
-```
-answer here
-```
+Where the user has mistyped or misused a symbol or character and the program cannot run.
 
 (c) Identify a logical error in the program and suggest how this might be fixed. **(2 marks)**
-```
-answer here
-```
+v
 
 (d) Describe and give an example of the 3rd kind of programming error. **(2 marks)**
 ```
