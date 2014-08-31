@@ -64,25 +64,23 @@ line7
 Where the user has mistyped or misused a symbol or character and the program cannot run.
 
 (c) Identify a logical error in the program and suggest how this might be fixed. **(2 marks)**
-v
-
+The mean is eq
 (d) Describe and give an example of the 3rd kind of programming error. **(2 marks)**
-```
-answer here
-```
+A run time error, this type of area is quite common and occurs whenever the program tells the computer to do something that it is not designed to do.
 
 ##Algortithms
 ###7 - Write an **algorithm** that if given a list of numbers could find the largest. Try to use [pseudocode](http://filestore2.aqa.org.uk/subjects/AQA-GCSE-COMPSCI-W-TRB-PSEU.PDF).
-```
-answer here
-```
+FUNCTION num_list_sort
+listofnumbers <- user input
+
+
 
 ##Networking
 ###8 - Research the following methods (*topologies*) for connecting devices to a network. In each case give a description and at least 1 advantage and 1 disadvantage.
 
 **Bus Topology (6 marks)**
 ```
-Describe:
+Describe: A bus network is where all the machines, servers and printers
 
 Advantages:
 
